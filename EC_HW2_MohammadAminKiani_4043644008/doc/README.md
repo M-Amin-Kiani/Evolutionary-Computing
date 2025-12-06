@@ -380,10 +380,8 @@ the repair/decoding logic.
 
 ## 14. License
 
-You can adjust this section based on your preference. For example, an MIT License:
-
 ```text
-MIT License
+UI License
 
 Copyright (c) 2025
 
